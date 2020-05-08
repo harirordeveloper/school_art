@@ -21,7 +21,7 @@ staging:
 
 production:
   <<: *default
-  database: school_art_production
+  database: portfolio
 
 test: &test
   <<: *default
