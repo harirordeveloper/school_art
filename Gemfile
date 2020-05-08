@@ -31,7 +31,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise', '~> 4.7', '>= 4.7.1'
 gem 'simple_token_authentication', '~> 1.17'
-gem 'doorkeeper', '~> 5.3', '>= 5.3.1'
+gem 'doorkeeper', '~> 5.3'
 gem 'devise-doorkeeper'
 gem 'pg'
 
