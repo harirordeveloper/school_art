@@ -34,3 +34,12 @@ gem 'simple_token_authentication', '~> 1.17'
 gem 'doorkeeper', '~> 5.3', '>= 5.3.1'
 gem 'devise-doorkeeper'
 gem 'pg'
+
+gem 'jbuilder', '~> 2.7'
+gem 'rack-cors'
+gem 'paperclip', '~> 6.1'
+
+gem 'capistrano', '~> 3.11'
+gem 'capistrano-rails', '~> 1.4'
+gem 'capistrano-passenger', '~> 0.2.0'
+gem 'capistrano-rbenv', '~> 2.1', '>= 2.1.4'
